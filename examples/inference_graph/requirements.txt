@@ -1,3 +1,5 @@
 bentoml>=1.0.0
 torch
 transformers==4.11.3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
