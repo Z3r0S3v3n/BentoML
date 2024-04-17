@@ -2,4 +2,4 @@ scikit-learn
 fastapi
 pydantic
 pandas
-bentoml>=1.0.0
+bentoml>=1.2.5
