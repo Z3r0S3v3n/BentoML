@@ -1,3 +1,4 @@
 tensorflow
 pillow
-bentoml>=1.0.0
+bentoml>=1.2.5
+keras>=2.13.1rc0 # not directly required, pinned by Snyk to avoid a vulnerability
