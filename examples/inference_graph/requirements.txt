@@ -1,3 +1,4 @@
 bentoml>=1.0.0
 torch
 transformers==4.11.3
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
