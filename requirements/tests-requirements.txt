@@ -6,7 +6,7 @@ yamllint==1.29.0
 black[jupyter]==22.12.0
 codecov==2.1.12
 coverage[toml]==7.1.0
-setuptools>=63
+setuptools>=70.0.0
 isort==5.11.4
 pylint==2.15.10
 pytest-cov==4.0.0
