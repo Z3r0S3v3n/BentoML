@@ -1,3 +1,4 @@
 bentoml
 torch
 torchvision
+python-multipart>=0.0.18 # not directly required, pinned by Snyk to avoid a vulnerability
