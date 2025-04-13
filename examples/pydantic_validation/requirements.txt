@@ -1,4 +1,4 @@
 scikit-learn
 pydantic
 pandas
-bentoml>=1.0.0
+bentoml>=1.4.8
